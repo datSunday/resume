@@ -48,7 +48,7 @@ Integrating into various partners teams, and driving the business through milest
 	
 
 ### Online Profiles:
-[Linkedin](https://ng.linkedin.com/in/datSunday), [Stack Overflow](http://stackoverflow.com/users/4330954/), [Twitter](https://twitter.com/dat_sunday), [Github](https://github.com/datSunday), [Blog](http://sundayadefila.com)
+[Linkedin](https://ng.linkedin.com/in/datSunday), [Stack Overflow](http://stackoverflow.com/users/4330954/), [Twitter](https://twitter.com/dat_sunday), [Github](https://github.com/datSunday):stuck_out_tongue_closed_eyes:, [Blog](http://sundayadefila.com)
 
 ### Education:
 **University of Ilorin, Nigeria** (B.Eng) – Electrical and Electronics Engineering
