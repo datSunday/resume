@@ -21,23 +21,22 @@
 - Remote working
 
 ### Experience:
-- **Transfix** – _Software Developer_ (01/2017 – date)
-<br>
+- **Transfix** – _Software Developer_ (01/2017 – date) <br>
 Simplifies the day-to-day internal tasks by enhancing the already automated ones, as well as automating the others
-- **IBM, Big Data University** – _Software Developer_ (07/2016 – 10/2016)
-<br>
+
+- **IBM, Big Data University** – _Software Developer_ (07/2016 – 10/2016)<br>
 Enhanced the process of hosting courses via edx by simplifying it to a series of click-through steps. 
-- **The Releaf Group** – _Backend Developer_ (01/2016 – 06/2016)
-<br>
-Made connections between businesses and consultants faster and trackable through the built platform. 
-- **Accure Technology** – _Rails Backend Developer_ (09/2015 – 08/2016)
-<br>
+
+- **The Releaf Group** – _Backend Developer_ (01/2016 – 06/2016)<br>
+Made connections between businesses and consultants faster and trackable through the built platform.
+
+- **Accure Technology** – _Rails Backend Developer_ (09/2015 – 08/2016)<br>
 Building solid APIs for various mobile applications, increasing clients’ trusts.
-- **Off.Grid:Electric** – _Software Developer_ (03/2015 – 04/2016)
-<br>
+
+- **Off.Grid:Electric** – _Software Developer_ (03/2015 – 04/2016) <br>
 Drive productivity, by simplifying day-to-day milestones data visualization
-- **Andela** – _Software Developer_ (11/2014 – date)
-<br>
+
+- **Andela** – _Software Developer_ (11/2014 – date)<br>
 Integrating into various partners teams, and driving the business through milestones via technology
 
 ### Open-source projects actively contributing to:
