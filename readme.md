@@ -34,7 +34,7 @@ Building solid APIs for various mobile applications, increasing clients’ trust
 - **Off.Grid:Electric** – _Software Developer_ (03/2015 – 04/2016) <br>
 Drive productivity, by simplifying day-to-day milestones data visualization
 
-### Open-source projects actively contributing to:
+### Open-source projects contributed to:
 - **[Helpy](https://helpy.io/)**: A customer support platform.
 - **[Disease-info](https://disease-info.herokuapp.com)**: Providing information on diseases in Nigeria, to help prevent them.
 - **[Jr Dev mentoring](http://www.jrdevmentoring.com/)**: Helping Newbies by connecting them with veterans willing to provide guidance through mentorship.
