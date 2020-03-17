@@ -9,30 +9,33 @@
 ### Skills: 
 - Ruby
 - TDD
-- PostgreSQL
+- Databases (PostgreSQL)
 - JavaScript
 - Version Control
 - Deployment (Heroku, CI, AWS, Linode)
 - Remote working
 
 ### Experience:
-- **Transfix** – _Backend Developer_ (01/2017 – date) <br>
+- **Transfix** – _Senior, Software Engineer_ (11/2018 – date) <br>
+Building software that helps to create a productive and efficient relationship  between Transfix and Carriers, seamless operations for  the carriers day-to-day activities, and also discovering ways to hep grow the companies Carrier-development/management capacity.
+
+- **Andela** – _Software Engineer_ (11/2014 – 11/2018)<br>
+Integrating into various partners' teams, and driving the business through milestones via technology
+
+	- **Transfix** – _Software Engineer_ (01/2017 – 11/2018) <br>
 Simplifies the day-to-day internal tasks by enhancing the already automated ones, as well as automating the others
 
-- **Andela** – _Software Developer_ (11/2014 – date)<br>
-Integrating into various partners teams, and driving the business through milestones via technology
-
-- **IBM, Big Data University** – _Full-Stack Developer_ (07/2016 – 10/2016)<br>
+	- **IBM, Big Data University** – _Full-Stack Developer_ (07/2016 – 10/2016)<br>
 Enhanced the process of hosting courses via edx by simplifying it to a series of click-through steps. 
+
+	- **Off.Grid:Electric (Now Zola)** – _Software Developer_ (03/2015 – 04/2016) <br>
+Drive productivity, by simplifying day-to-day milestones data visualization
 
 - **The Releaf Group** – _Backend Developer_ (01/2016 – 06/2016)<br>
 Made connections between businesses and consultants faster and trackable through the built platform.
 
-- **Accure Technology** – _Full-Stack Developer_ (09/2015 – 08/2016)<br>
+- **Accure Technology** – _Backend Developer_ (09/2015 – 08/2016)<br>
 Building solid APIs for various mobile applications, increasing clients’ trusts.
-
-- **Off.Grid:Electric** – _Software Developer_ (03/2015 – 04/2016) <br>
-Drive productivity, by simplifying day-to-day milestones data visualization
 
 ### Open-source projects contributed to:
 - **[Helpy](https://helpy.io/)**: A customer support platform.
@@ -43,7 +46,7 @@ Drive productivity, by simplifying day-to-day milestones data visualization
 	
 
 ### Online Profiles:
-[Linkedin](https://ng.linkedin.com/in/x6iae), [Stack Overflow](http://stackoverflow.com/users/4330954/x6iae), [Twitter](https://twitter.com/x6iae), [Github](https://github.com/x6iae):stuck_out_tongue_closed_eyes:
+[Linkedin](https://ng.linkedin.com/in/x6iae), [Stack Overflow](http://stackoverflow.com/users/4330954/x6iae), [Twitter](https://twitter.com/x6iae), [Github](https://github.com/x6iae)
 
 ### Education:
 **University of Ilorin, Nigeria** (B.Eng) – Electrical and Electronics Engineering
