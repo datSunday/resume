@@ -29,7 +29,10 @@ Simplifies the day-to-day internal tasks by enhancing the already automated ones
 Enhanced the process of hosting courses via edx by simplifying it to a series of click-through steps. 
 
 	- **Off.Grid:Electric (Now Zola)** – _Software Developer_ (03/2015 – 04/2016) <br>
-Drive productivity, by simplifying day-to-day milestones data visualization
+Drove productivity, by simplifying day-to-day milestones via data visualization
+
+- **Cahootify** - _Software Developer_ (09/2017 - 09/2018)<br>
+Solidified the codebase by introducing code tests (unit & e2e), to an acceptable 65% coverage; Making development easier, smoother, and faster. And adding new features.
 
 - **The Releaf Group** – _Backend Developer_ (01/2016 – 06/2016)<br>
 Made connections between businesses and consultants faster and trackable through the built platform.
