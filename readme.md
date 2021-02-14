@@ -17,7 +17,9 @@
 
 ### Experience:
 - **Transfix** – _Senior, Software Engineer_ (11/2018 – date) <br>
-Building software that helps to create a productive and efficient relationship  between Transfix and Carriers, seamless operations for  the carriers day-to-day activities, and also discovering ways to hep grow the companies Carrier-development/management capacity.
+	- With the "Pricing" team in building and maintaining the smooth day-to-day running of new technologies for supporting quoting and covering to drive business marging.
+
+	- With the "Supply Operations" team in building software that helps to create a productive and efficient relationship  between Transfix and Carriers, seamless operations for  the carriers day-to-day activities, and also discovering ways to hep grow the companies Carrier-development/management capacity.
 
 - **Andela** – _Software Engineer_ (11/2014 – 11/2018)<br>
 Integrating into various partners' teams, and driving the business through milestones via technology
