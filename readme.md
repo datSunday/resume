@@ -1,8 +1,8 @@
 <h1 align="center">Sunday Adefila</h1>
 <p align="center"><i>Senior Software Engineer, adventurous life-learner</i></p>
-<p align="center"><i>Email: adefilaedward@gmail.com, Mobile: +2348135445167, Skype: adefila.sunday.e</i></p>
+<p align="center"><i>Email: <a href="mailto:adefilaedward@gmail.com">adefilaedward@gmail.com</a>, Mobile: <a href="tel:+2348135445167">+2348135445167</a>, Skype: adefila.sunday.e</i></p>
 
-<p align="center"><i>[Linkedin](https://ng.linkedin.com/in/x6iae), [Stack Overflow](http://stackoverflow.com/users/4330954/x6iae), [Twitter](https://twitter.com/x6iae), [Github](https://github.com/x6iae)</i>
+<p align="center"><i><a href=https://ng.linkedin.com/in/x6iae>Linkedin</a>, <a href=http://stackoverflow.com/users/4330954/x6iae>Stack Overflow</a>, <a href=https://twitter.com/x6iae>Twitter</a></i></p>
 
 ----
 ### Objective:
