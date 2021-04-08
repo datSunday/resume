@@ -2,18 +2,22 @@
 <p align="center"><i>Senior Software Engineer, adventurous life-learner</i></p>
 <p align="center"><i>Email: adefilaedward@gmail.com, Mobile: +2348135445167, Skype: adefila.sunday.e</i></p>
 
+<p align="center"><i>[Linkedin](https://ng.linkedin.com/in/x6iae), [Stack Overflow](http://stackoverflow.com/users/4330954/x6iae), [Twitter](https://twitter.com/x6iae), [Github](https://github.com/x6iae)</i>
+
 ----
 ### Objective:
 - To have a broader understanding of various problems by using available data in understanding causations and inferences, so as to make accurate decisions in providing meaningfully impactful solutions in a very timely manner and at minimized cost.
 
 ### Skills: 
-- Ruby
-- TDD
-- Databases (PostgreSQL)
-- JavaScript
-- Version Control
-- Deployment (Heroku, CI, AWS, Linode)
-- Remote working
+- Ruby, Javascript, Python
+- Rails, Sinatra, Jquery, React, Bootstrap
+- TDD/BDD (Rspec, Capibara, Jasmine)
+- Databases: Postgresql, Redis, MongoDB, DynamoDB
+- Version Control (Git)
+- Deployment (Heroku, CircleCI, AWS EBS, Linode, Digital Ocean)
+- Vagrant / Docker
+- Ability to adapt, and learn new things easily and quickly
+- Asking for help and mentoring others
 
 ### Experience:
 - **Transfix** – _Senior, Software Engineer_ (11/2018 – date) <br>
@@ -50,8 +54,7 @@ Building solid APIs for various mobile applications, increasing clients’ trust
 - **[Squaredex](https://github.com/devcenter-square/squaredex)**: Showing appreciations to peers...
 	
 
-### Online Profiles:
-[Linkedin](https://ng.linkedin.com/in/x6iae), [Stack Overflow](http://stackoverflow.com/users/4330954/x6iae), [Twitter](https://twitter.com/x6iae), [Github](https://github.com/x6iae)
+
 
 ### Education:
 **University of Ilorin, Nigeria** (B.Eng) – Electrical and Electronics Engineering
