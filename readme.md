@@ -66,11 +66,11 @@ Integrating into various Andela partners’ teams, and driving the business thro
 
 ### volunteer Work Experience:
 - **TEDxYaba** - _Tech Team Lead_ (03/2019 - date)
-       - I designed the workflow, and timelines for delivery of various milestones
-       - I coordinate the implementation of features
-       - Build out the full backend application logic, including full admin content management system, and then surface out APIs for the public facing website(client) to interact with
-       - Deployment of the software
-       - Maintenance of the software
+  - I designed the workflow, and timelines for delivery of various milestones
+  - I coordinate the implementation of features
+  - Build out the full backend application logic, including full admin content management system, and then surface out APIs for the public facing website(client) to interact with
+  - Deployment of the software
+  - Maintenance of the software
 
 ---
 
